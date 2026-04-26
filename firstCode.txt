@@ -1,4 +1,2 @@
 Hello world!!;
-Added few lines
-third line 
-take input from user 
+Take input from users 
